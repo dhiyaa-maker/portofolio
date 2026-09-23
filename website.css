@@ -618,6 +618,7 @@ footer {
 
   .logo {
     padding-right: 0;
+    transform: none;
   }
 
   .logo-img {
@@ -629,6 +630,7 @@ footer {
     flex-wrap: wrap;
     justify-content: center;
     gap: 15px;
+    transform: none;
   }
 
   .nav-menu a {
